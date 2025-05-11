@@ -4,7 +4,6 @@ public:
         int st = 0;
         int end = x;
         int ans =0;
-        
         while(st<=end){
             long long mid = st+(end-st)/2;
             long long sq = mid*mid;

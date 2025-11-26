@@ -39,4 +39,12 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Gautam7701/Leetcode/tree/master/0054-spiral-matrix) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Gautam7701/Leetcode/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Gautam7701/Leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->

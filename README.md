@@ -13,6 +13,7 @@
 | [0054-spiral-matrix](https://github.com/Gautam7701/Leetcode/tree/master/0054-spiral-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Gautam7701/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1677-matrix-diagonal-sum](https://github.com/Gautam7701/Leetcode/tree/master/1677-matrix-diagonal-sum) |
+| [2965-find-missing-and-repeated-values](https://github.com/Gautam7701/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -35,6 +36,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/Gautam7701/Leetcode/tree/master/0054-spiral-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/Gautam7701/Leetcode/tree/master/1677-matrix-diagonal-sum) |
+| [2965-find-missing-and-repeated-values](https://github.com/Gautam7701/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Simulation
 |  |
 | ------- |
@@ -47,4 +49,12 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Gautam7701/Leetcode/tree/master/0206-reverse-linked-list) |
+## Hash Table
+|  |
+| ------- |
+| [2965-find-missing-and-repeated-values](https://github.com/Gautam7701/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
+## Math
+|  |
+| ------- |
+| [2965-find-missing-and-repeated-values](https://github.com/Gautam7701/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 <!---LeetCode Topics End-->

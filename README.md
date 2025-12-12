@@ -12,6 +12,7 @@
 | [0042-trapping-rain-water](https://github.com/Gautam7701/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0054-spiral-matrix](https://github.com/Gautam7701/Leetcode/tree/master/0054-spiral-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Gautam7701/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0217-contains-duplicate](https://github.com/Gautam7701/Leetcode/tree/master/0217-contains-duplicate) |
 | [1677-matrix-diagonal-sum](https://github.com/Gautam7701/Leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [2965-find-missing-and-repeated-values](https://github.com/Gautam7701/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Dynamic Programming
@@ -52,9 +53,14 @@
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Gautam7701/Leetcode/tree/master/0217-contains-duplicate) |
 | [2965-find-missing-and-repeated-values](https://github.com/Gautam7701/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Math
 |  |
 | ------- |
 | [2965-find-missing-and-repeated-values](https://github.com/Gautam7701/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/Gautam7701/Leetcode/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->

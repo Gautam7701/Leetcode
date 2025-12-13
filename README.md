@@ -15,6 +15,7 @@
 | [0088-merge-sorted-array](https://github.com/Gautam7701/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Gautam7701/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/Gautam7701/Leetcode/tree/master/0217-contains-duplicate) |
+| [0575-distribute-candies](https://github.com/Gautam7701/Leetcode/tree/master/0575-distribute-candies) |
 | [1677-matrix-diagonal-sum](https://github.com/Gautam7701/Leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [2965-find-missing-and-repeated-values](https://github.com/Gautam7701/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Dynamic Programming
@@ -57,6 +58,7 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Gautam7701/Leetcode/tree/master/0217-contains-duplicate) |
+| [0575-distribute-candies](https://github.com/Gautam7701/Leetcode/tree/master/0575-distribute-candies) |
 | [2965-find-missing-and-repeated-values](https://github.com/Gautam7701/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Math
 |  |

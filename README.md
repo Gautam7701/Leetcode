@@ -12,6 +12,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Gautam7701/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Gautam7701/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0054-spiral-matrix](https://github.com/Gautam7701/Leetcode/tree/master/0054-spiral-matrix) |
+| [0088-merge-sorted-array](https://github.com/Gautam7701/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Gautam7701/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/Gautam7701/Leetcode/tree/master/0217-contains-duplicate) |
 | [1677-matrix-diagonal-sum](https://github.com/Gautam7701/Leetcode/tree/master/1677-matrix-diagonal-sum) |
@@ -25,6 +26,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Gautam7701/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0088-merge-sorted-array](https://github.com/Gautam7701/Leetcode/tree/master/0088-merge-sorted-array) |
 ## Stack
 |  |
 | ------- |
@@ -63,6 +65,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Gautam7701/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Gautam7701/Leetcode/tree/master/0217-contains-duplicate) |
 ## Binary Search
 |  |

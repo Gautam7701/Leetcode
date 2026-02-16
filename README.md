@@ -6,6 +6,7 @@
 | ------- |
 | [0175-combine-two-tables](https://github.com/Gautam7701/Leetcode/tree/master/0175-combine-two-tables) |
 | [0577-employee-bonus](https://github.com/Gautam7701/Leetcode/tree/master/0577-employee-bonus) |
+| [1757-recyclable-and-low-fat-products](https://github.com/Gautam7701/Leetcode/tree/master/1757-recyclable-and-low-fat-products) |
 ## Array
 |  |
 | ------- |

@@ -14,6 +14,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Gautam7701/Leetcode/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Gautam7701/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Gautam7701/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0054-spiral-matrix](https://github.com/Gautam7701/Leetcode/tree/master/0054-spiral-matrix) |
@@ -62,6 +63,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Gautam7701/Leetcode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Gautam7701/Leetcode/tree/master/0217-contains-duplicate) |
 | [0575-distribute-candies](https://github.com/Gautam7701/Leetcode/tree/master/0575-distribute-candies) |
 | [2965-find-missing-and-repeated-values](https://github.com/Gautam7701/Leetcode/tree/master/2965-find-missing-and-repeated-values) |

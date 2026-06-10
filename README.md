@@ -21,6 +21,7 @@
 | [0088-merge-sorted-array](https://github.com/Gautam7701/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Gautam7701/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/Gautam7701/Leetcode/tree/master/0217-contains-duplicate) |
+| [0287-find-the-duplicate-number](https://github.com/Gautam7701/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0575-distribute-candies](https://github.com/Gautam7701/Leetcode/tree/master/0575-distribute-candies) |
 | [1677-matrix-diagonal-sum](https://github.com/Gautam7701/Leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [2965-find-missing-and-repeated-values](https://github.com/Gautam7701/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
@@ -34,6 +35,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Gautam7701/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/Gautam7701/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0287-find-the-duplicate-number](https://github.com/Gautam7701/Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Stack
 |  |
 | ------- |
@@ -80,4 +82,9 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Gautam7701/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0287-find-the-duplicate-number](https://github.com/Gautam7701/Leetcode/tree/master/0287-find-the-duplicate-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Gautam7701/Leetcode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
